@@ -8,6 +8,9 @@ public class Dummy1 {
 		System.out.println("greate school");
 		System.out.println("good");
 		//this is working 
+		int ab =5 ;
+		char an ='a';
+		
 	}
 
 }
