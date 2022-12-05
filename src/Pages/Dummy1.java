@@ -10,6 +10,8 @@ public class Dummy1 {
 		//this is working 
 		int ab =5 ;
 		char an ='a';
+		int mast =50;
+		String testing = "test";
 		
 	}
 
